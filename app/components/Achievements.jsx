@@ -40,7 +40,7 @@ const Achievements = () => {
               key={index}
               className='flex flex-col items-center justify-center'
             >
-              <h2 className='text-white text-4xl font-bold flex'>
+              <h2 className='text-white lg:text-4xl font-bold flex'>
                 {achievement.prefix}
               <AnimatedNumbers
               includeComma
